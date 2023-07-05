@@ -1,6 +1,7 @@
-namespace Hello_word;
+namespace Codewars;
 
-public class NoBoring{
+public class NoBoring
+{
 
     public static int NoBoringZeros(int n)
     {
