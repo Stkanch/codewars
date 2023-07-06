@@ -9,3 +9,6 @@ Console.WriteLine(a);
 
 var b = Letter.StrCount("Hello", 'l');
 Console.WriteLine(b);
+
+var c = Bus.Enough(100, 50, 30);
+Console.WriteLine(c);
