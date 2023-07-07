@@ -12,3 +12,6 @@ Console.WriteLine(b);
 
 var c = Bus.Enough(100, 50, 30);
 Console.WriteLine(c);
+
+var d = Alphabet.Position('a');
+Console.WriteLine(d);
